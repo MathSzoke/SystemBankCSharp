@@ -1,0 +1,5 @@
+GerenteDeContas e Diretor
+	Autenticar(senhaTentativa)
+
+SistemaInterno
+	Logar(Funcionario, senhaTentativa)
