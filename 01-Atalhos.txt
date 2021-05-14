@@ -1,0 +1,12 @@
+
+class Programa
+
+namespace _01_Atalhos
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+        }
+    }
+}
